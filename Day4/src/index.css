@@ -1,0 +1,23 @@
+html{
+  background-color: white;
+}
+body{
+  border: 2px solid rosybrown;
+  border-radius: 10px;
+  height: 70vh;
+  width: 40vw;
+  text-align: center;
+  background-color:bisque ;
+  justify-self: center;
+}
+.button{
+  font-size: 20px;
+  border: none;
+  background-color:bisque ;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.button:hover{
+  font-size: 21px;
+  color: darkgoldenrod;
+}
